@@ -1,0 +1,24 @@
+ {
+                "adjustIndistinguishableColors": "never",
+                "backgroundImage": "path to background/background.png",
+                "backgroundImageOpacity": 0.51,
+                "backgroundImageStretchMode": "uniformToFill",
+                "colorScheme": "Tango Dark",
+                "experimental.retroTerminalEffect": false,
+                "font": 
+                {
+                    "face": "Hack",
+                    "size": 11.0,
+                    "weight": "extra-light"
+                },
+                "hidden": false,
+                "icon": "path to \icon.png",
+                "intenseTextStyle": "all",
+                "name": "Ubuntu 22.04.2 LTS",
+                "opacity": 100,
+                "padding": "26",
+                "source": "CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc",
+                "tabTitle": "snk's Ubuntu",
+                "useAcrylic": true,
+                "useAtlasEngine": false
+            }
