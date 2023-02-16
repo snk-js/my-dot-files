@@ -1,2 +1,0 @@
-require("snake")
-print("hello")

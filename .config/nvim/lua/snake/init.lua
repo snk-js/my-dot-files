@@ -1,6 +1,5 @@
 require("snake.remap")
 require("snake.set")
-
 local augroup = vim.api.nvim_create_augroup
 local ThePrimeagenGroup = augroup('ThePrimeagen', {})
 
